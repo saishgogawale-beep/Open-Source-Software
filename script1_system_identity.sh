@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Display a formatted system identity welcome screen
 
