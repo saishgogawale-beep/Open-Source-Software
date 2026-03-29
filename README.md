@@ -1,5 +1,3 @@
-# oss-audit-24MIM10150
-
 **Open Source Audit — MySQL**  
 Capstone Project | Open Source Software (OSS NGMC)
 
@@ -9,8 +7,6 @@ Capstone Project | Open Source Software (OSS NGMC)
 
 | Field | Value |
 |---|---|
-| Name | Krishna Kumar Sahu |
-| Registration Number | 24MIM10150 |
 | Software Audited | MySQL (Community Edition — GPL v2) |
 
 ---
