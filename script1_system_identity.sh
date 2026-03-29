@@ -4,8 +4,6 @@
 # Purpose: Display a formatted system identity welcome screen
 
 # ─── Variables ───────────────────────────────────────────────
-STUDENT_NAME="Krishna Kumar Sahu"
-REG_NUMBER="24MIM10150"
 SOFTWARE_CHOICE="MySQL"
 
 # Capture system info using command substitution $()
